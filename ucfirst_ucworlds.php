@@ -1,5 +1,10 @@
 <?php
 
+// --------------------------------------
+// ucfirst(), ucwords()
+// --------------------------------------
+
+
 echo ucfirst('web programming channel');
 
 //  Web programming channel
